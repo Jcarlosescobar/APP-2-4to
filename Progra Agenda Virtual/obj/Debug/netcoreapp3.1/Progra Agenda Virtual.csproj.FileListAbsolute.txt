@@ -1,0 +1,13 @@
+C:\Users\Juanca\Desktop\Progra Agenda Virtual\obj\Debug\netcoreapp3.1\Progra Agenda Virtual.csprojAssemblyReference.cache
+C:\Users\Juanca\Desktop\Progra Agenda Virtual\obj\Debug\netcoreapp3.1\Progra Agenda Virtual.AssemblyInfoInputs.cache
+C:\Users\Juanca\Desktop\Progra Agenda Virtual\obj\Debug\netcoreapp3.1\Progra Agenda Virtual.AssemblyInfo.cs
+C:\Users\Juanca\Desktop\Progra Agenda Virtual\obj\Debug\netcoreapp3.1\Progra Agenda Virtual.csproj.CoreCompileInputs.cache
+C:\Users\Juanca\Desktop\Progra Agenda Virtual\bin\Debug\netcoreapp3.1\Progra Agenda Virtual.exe
+C:\Users\Juanca\Desktop\Progra Agenda Virtual\bin\Debug\netcoreapp3.1\Progra Agenda Virtual.deps.json
+C:\Users\Juanca\Desktop\Progra Agenda Virtual\bin\Debug\netcoreapp3.1\Progra Agenda Virtual.runtimeconfig.json
+C:\Users\Juanca\Desktop\Progra Agenda Virtual\bin\Debug\netcoreapp3.1\Progra Agenda Virtual.runtimeconfig.dev.json
+C:\Users\Juanca\Desktop\Progra Agenda Virtual\bin\Debug\netcoreapp3.1\Progra Agenda Virtual.dll
+C:\Users\Juanca\Desktop\Progra Agenda Virtual\bin\Debug\netcoreapp3.1\Progra Agenda Virtual.pdb
+C:\Users\Juanca\Desktop\Progra Agenda Virtual\obj\Debug\netcoreapp3.1\Progra Agenda Virtual.dll
+C:\Users\Juanca\Desktop\Progra Agenda Virtual\obj\Debug\netcoreapp3.1\Progra Agenda Virtual.pdb
+C:\Users\Juanca\Desktop\Progra Agenda Virtual\obj\Debug\netcoreapp3.1\Progra Agenda Virtual.genruntimeconfig.cache
